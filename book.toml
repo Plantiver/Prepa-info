@@ -3,4 +3,6 @@
 title = "L'informatique en Prépa"
 authors = ["Azele"]
 description = "Nothing's in here"
+
+[output.html]
 git-repository-url = "https://github.com/Plantiver/Prepa-info/"
