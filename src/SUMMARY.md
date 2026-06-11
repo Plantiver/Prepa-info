@@ -3,7 +3,10 @@
 
 [Intro](../README.md)
 
-# Part 1: Langage de Programmation
+# Part 1: À la découverte de la machine
+
+
+# Part 2: Langage de Programmation
 - [La machine](lprog/general/intro.md)
   - [Pourquoi l'informatique](lprog/general/info.md)
 - [Le langage C](lprog/c/intro.md)
@@ -33,5 +36,17 @@
   - [Module](lprog/ocaml/module/intro.md)
   - [Projet-exemple](lprog/ocaml/project/intro.md)
   - [Toujours Plus](lprog/ocaml/more/intro.md)
+- [Le langage Python](lprog/python/intro.md)
+  - [Introduction](lprog/python/intro/intro.md)
+
+# Part 3: Une introduction à la calculabilité
+
+# Part 4: Algorithmie
+
+# Appendice A: Installer Arch Linux
+
+# Appendice B: Réussir son année en informatique
+
+
 
 
