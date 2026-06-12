@@ -1,10 +1,10 @@
 
 # Summary
 
-[Intro](../README.md)
+[Intro](intro.md)
 
 # Part 1: À la découverte de la machine
-
+[La machine](basic/intro.md)
 
 # Part 2: Langage de Programmation
 [Langage de programmation](lprog/intro.md)
@@ -42,7 +42,7 @@
 
 # Part 3: Une introduction à la calculabilité
 
-
+-
 
 # Part 4: Algorithmie
 
