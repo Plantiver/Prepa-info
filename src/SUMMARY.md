@@ -42,13 +42,15 @@
 
 # Part 3: Une introduction à la calculabilité
 
--
+- [La calculabilité](calc/intro.md)
 
 # Part 4: Algorithmie
 
 # Appendice A: Installer Arch Linux
 
 # Appendice B: Réussir son année en informatique
+
+# Appendice C: Les 
 
 
 
