@@ -7,6 +7,7 @@
 
 
 # Part 2: Langage de Programmation
+[Langage de programmation](lprog/intro.md)
 - [La machine](lprog/general/intro.md)
   - [Pourquoi l'informatique](lprog/general/info.md)
 - [Le langage C](lprog/c/intro.md)
@@ -40,6 +41,8 @@
   - [Introduction](lprog/python/intro/intro.md)
 
 # Part 3: Une introduction à la calculabilité
+
+
 
 # Part 4: Algorithmie
 
