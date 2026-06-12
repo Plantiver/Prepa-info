@@ -50,7 +50,9 @@
 
 # Appendice B: Réussir son année en informatique
 
-# Appendice C: Les 
+# Appendice C: Les sujets d'informatique
+
+# Appendice D: Exercices / Ressources utiles
 
 
 
