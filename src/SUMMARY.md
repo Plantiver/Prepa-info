@@ -3,7 +3,7 @@
 
 [Intro](intro.md)
 
-# Part 1: À la découverte de la machine
+# Part 1: À la découverte de la machine 
 [La machine](basic/intro.md)
 
 # Part 2: Langage de Programmation
