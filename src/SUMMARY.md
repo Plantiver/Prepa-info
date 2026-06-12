@@ -7,7 +7,7 @@
 [La machine](basic/intro.md)
   - [Le terminal](basic/shell/intro.md)
     - [Se déplacer](basic/shell/move.md)
-# Part 2: Langage de Programmation
+# Part 2: Langage de Programmation 
 [Langage de programmation](lprog/intro.md)
 - [La machine](lprog/general/intro.md)
   - [Pourquoi l'informatique](lprog/general/info.md)
