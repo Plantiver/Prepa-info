@@ -15,7 +15,7 @@
   - [Introduction](lprog/c/intro/intro.md)
     - [Installation](lprog/c/intro/inst.md)
     - [Hello World](lprog/c/intro/hello.md)
-    - [Un peu d'histoire, et des exemples](lprog/c/intro/history/md)
+    - [Un peu d'histoire, et des exemples](lprog/c/intro/hist.md)
   - [Généralités](lprog/c/general/intro.md)
     - [La fonction main](lprog/c/general/mainf.md)
     - [Types de base](lprog/c/general/types.md)
