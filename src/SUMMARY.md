@@ -5,7 +5,8 @@
 
 # Part 1: À la découverte de la machine 
 [La machine](basic/intro.md)
-
+  - [Le terminal](basic/shell/intro.md)
+    - [Se déplacer](basic/shell/move.md)
 # Part 2: Langage de Programmation
 [Langage de programmation](lprog/intro.md)
 - [La machine](lprog/general/intro.md)
